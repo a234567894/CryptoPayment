@@ -14,7 +14,7 @@ CryptoPayment is a leading third-party payment system for virtual currencies, de
 
 5. Merchant Wallet: Merchants play a crucial role in cryptocurrency payment adoption, and CryptoPayment empowers them with dedicated merchant wallets. These wallets streamline payment processing and income management, enabling businesses to seamlessly integrate cryptocurrency payments into their operations.
 
-6. Staking Management System: CryptoPayment's staking management system aims to help users save on transaction fees. By participating in staking, users can enjoy lower transfer fees while earning stable returns.
+6. Tron Staking Management System: CryptoPayment's staking management system aims to help users save on transaction fees. By participating in staking, users can enjoy lower transfer fees while earning stable returns.
 
 # Our Goals
 
